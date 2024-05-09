@@ -1,6 +1,6 @@
 /*
 WHERE
-Lección 9.2: https://youtu.be/OuJerKzV5T0?t=6384
+Lección 9.2: 
 */
 
 -- Filtra todos los datos de la tabla "users" con edad igual a 15

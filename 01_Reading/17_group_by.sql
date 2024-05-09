@@ -1,6 +1,6 @@
 /*
 GROUP BY
-Lección 10.11: https://youtu.be/OuJerKzV5T0?t=8960
+Lección 10.11: 
 */
 
 -- Agrupa los resultados por edad diferente

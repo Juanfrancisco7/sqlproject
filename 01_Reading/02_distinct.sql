@@ -1,6 +1,6 @@
 /*
 DISTINCT
-Lección 9.1: https://youtu.be/OuJerKzV5T0?t=6089
+Lección 9.1:
 */
 
 -- Obtiene todos los datos distintos entre sí de la tabla "users"

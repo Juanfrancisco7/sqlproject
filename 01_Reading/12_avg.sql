@@ -1,6 +1,6 @@
 /*
 AVG
-Lección 10.6: https://youtu.be/OuJerKzV5T0?t=8293
+Lección 10.6: 
 */
 
 -- Obitne la media de edad de la tabla "users"

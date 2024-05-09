@@ -1,6 +1,6 @@
 /*
 NULL
-Lección 10.2: https://youtu.be/OuJerKzV5T0?t=7615
+Lección 10.2: 
 */
 
 -- Obtiene todos datos de la tabla "users" de la tabla "users" con email nulo

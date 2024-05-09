@@ -1,6 +1,6 @@
 /*
 LIMIT
-Lección 9.6: https://youtu.be/OuJerKzV5T0?t=7395
+Lección 9.6: 
 */
 
 -- Obtiene las 3 primeras filas de la tabla "users"
