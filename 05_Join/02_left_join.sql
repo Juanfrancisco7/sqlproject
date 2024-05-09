@@ -1,6 +1,6 @@
 /*
 LEFT JOIN
-Lección 17.2: https://youtu.be/OuJerKzV5T0?t=17045
+Lección 17.2: 
 */
 
 -- Obtiene los datos de todos los usuarios junto a su dni (lo tenga o no)

@@ -1,6 +1,6 @@
 /*
 UNION (FULL JOIN)
-Lección 17.4: https://youtu.be/OuJerKzV5T0?t=17536
+Lección 17.4: 
 */
 
 -- UNION elimina duplicados

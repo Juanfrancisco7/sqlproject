@@ -1,6 +1,6 @@
 /*
 VIEWS
-Lección 18.3: https://youtu.be/OuJerKzV5T0?t=19663
+Lección 18.3: 
 */
 
 -- Crea unaa vista llamada "v_adult_users" con los nombres y edades de usuarios de la table "users"

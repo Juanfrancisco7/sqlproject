@@ -1,6 +1,6 @@
 /*
 UPDATE
-Lección 11.2: https://youtu.be/OuJerKzV5T0?t=10621
+Lección 11.2: 
 */
 
 -- Estable el valor 21 para la edad del registro de la tabla "users" con identificador igual a 11

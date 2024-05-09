@@ -1,6 +1,6 @@
 /*
 TRANSACTIONS
-Lección 18.5: https://youtu.be/OuJerKzV5T0?t=20501
+Lección 18.5: 
 */
 
 -- Inicia una nueva transacción. Desde este punto, todas las modificaciones realizadas en la

@@ -1,6 +1,6 @@
 /*
 CREATE TABLE
-Lección 13.1: https://youtu.be/OuJerKzV5T0?t=11292
+Lección 13.1: 
 */
 
 -- Crea una tabla llamada "persons" con nombre de columna (atributos) de tipo int, varchar y date
