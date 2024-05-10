@@ -10,4 +10,4 @@ SELECT * FROM users;
 SELECT name FROM users;
 
 -- Obtiene todos los identificadores y nombres de la tabla "users"
-SELECT user_id, name FROM users;
+SELECT user_id, name FROM users; 
